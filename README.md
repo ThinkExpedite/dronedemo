@@ -1,5 +1,5 @@
 # drone-go-git-test
 
-#jon 4
+#drone IO
 
-[![Build Status](https://cloud.drone.io/api/badges/cyantarek/drone-go-git-test/status.svg)](https://cloud.drone.io/cyantarek/drone-go-git-test)
+[![Build Status](http://841c1a2b.ngrok.io/api/badges/ThinkExpedite/dronedemo/status.svg)](http://841c1a2b.ngrok.io/ThinkExpedite/dronedemo)
